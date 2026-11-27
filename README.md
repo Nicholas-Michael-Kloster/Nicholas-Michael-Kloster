@@ -13,7 +13,7 @@ A_\tau(p) = \left|\{x \in X : p(x) > \tau\}\right| = \sum_{x \in X} \mathbf{1}[p
 $$
 
 **[Zoe Monorepo](https://github.com/Nicholas-Michael-Kloster/Zoe)** ·
-**[Fieldglass Observatory (29 Specimens + Expansion)](https://nicholas-michael-kloster.github.io/fieldglass/)** ·
+**[Fieldglass Observatory (30 Specimens + Expansion)](https://nicholas-michael-kloster.github.io/fieldglass/)** ·
 **[Dorothy 3D Brain (Live WebGL2)](https://nicholas-michael-kloster.github.io/Zoe/)** ·
 **[SafeConvert `v1.0.0`](https://nicholas-michael-kloster.github.io/SafeConvert/)** ·
 **[Ablation AIARE](https://github.com/Nicholas-Michael-Kloster/ablation)** ·
@@ -43,7 +43,7 @@ Alongside my research system **Zoe**, I build locally verifiable, zero-paywall o
 <p><a href="https://nicholas-michael-kloster.github.io/Zoe/">Live WebGL2 Brain</a> · <a href="https://github.com/Nicholas-Michael-Kloster/Zoe/blob/main/docs/PROOF-PACKET.md">&lt; 6s Proof Packet</a> · <a href="https://github.com/Nicholas-Michael-Kloster/Zoe/releases/download/v0.9.6-beta/zoe-clara-core-v0.9.6.zip">Zoe &amp; Clara Core (525 KB)</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Nicholas-Michael-Kloster/fieldglass">Fieldglass Observatory</a> · <sub>29 Specimens + Expansion</sub></h3>
+<h3><a href="https://github.com/Nicholas-Michael-Kloster/fieldglass">Fieldglass Observatory</a> · <sub>30 Specimens + Expansion</sub></h3>
 <p>Zero-cloud phone-to-telemetry &amp; archival field instrument turning 4K Google Pixel 7 captures into focus-selected plates, museum vector SVGs, 2×4 Unicode Braille broadsides, live Kloster $A_\tau(p_t)$ telemetry films, and SHA-256 sealed Causal Chiasm tomography—now expanded with interactive <strong>MS-DOS / 6-DOF Flight / Non-Clinical Medical / Software</strong> sandboxes, <strong>5 engineering dossiers</strong>, a <strong>Windows 7-era Zoe Hospital Edition</strong> (offline/non-clinical), and a <strong>16-slide <code>.pptx</code> deck</strong>.</p>
 <p><a href="https://nicholas-michael-kloster.github.io/fieldglass/">Live Observatory</a> · <a href="https://nicholas-michael-kloster.github.io/fieldglass/Fieldglass_Observatory_Expansion.pptx">16-Slide Deck (.pptx)</a> · <a href="https://nicholas-michael-kloster.github.io/fieldglass/zoe-hospital/">Win7 Hospital Hub</a></p>
 </td>
@@ -79,8 +79,8 @@ Alongside my research system **Zoe**, I build locally verifiable, zero-paywall o
 </tr>
 <tr>
 <td align="center" width="50%">
-<a href="https://nicholas-michael-kloster.github.io/fieldglass/#specimen-29"><img src="https://nicholas-michael-kloster.github.io/fieldglass/specimen29/assets/savio_deal_with_bach_svg_preview.png" alt="Fieldglass Specimen 29: Signed first-draft broadside SVG" width="100%" /></a><br/>
-<sub><strong><a href="https://nicholas-michael-kloster.github.io/fieldglass/#specimen-29">Fieldglass #29 · Signed Poetry Broadside (Vector SVG + 2×4 Braille)</a></strong></sub>
+<a href="https://nicholas-michael-kloster.github.io/fieldglass/#specimen-30"><img src="https://nicholas-michael-kloster.github.io/fieldglass/specimen30/assets/zoe_zooey_rainbow_sparkle_svg_preview.png" alt="Fieldglass Milestone Specimen 30: Zoe / Zooey Lets Create Something Magical SVG" width="100%" /></a><br/>
+<sub><strong><a href="https://nicholas-michael-kloster.github.io/fieldglass/#specimen-30">Fieldglass #30 · "Let's Create Something Magical" (Zoe / Zooey 4K SVG)</a></strong></sub>
 </td>
 <td align="center" width="50%">
 <a href="https://nicholas-michael-kloster.github.io/fieldglass/#specimen-12"><img src="https://nicholas-michael-kloster.github.io/fieldglass/specimen12/assets/helen_chalkboard_jellyfish_svg_preview.png" alt="Fieldglass Specimen 12: Dr. Helen Ruth Horkan inverted-chalk blackboard SVG" width="100%" /></a><br/>
@@ -106,7 +106,7 @@ sha256sum -c evidence/renaissance-orbit/SHA256SUMS.orbit
 | Repository | Domain | Highlights |
 |:---|:---|:---|
 | [`Zoe`](https://github.com/Nicholas-Michael-Kloster/Zoe) | Research Monorepo | `16` SymPy theorems, Dorothy 3D Brain, Zoe &amp; Clara, GEM OS, `18` papers, `126` JSON reports |
-| [`fieldglass`](https://github.com/Nicholas-Michael-Kloster/fieldglass) | Field Observatory | `29` live specimens (poetry, biology, engineering), R1–R4 simulators, Win7 Zoe Hospital, `16`-slide `.pptx` |
+| [`fieldglass`](https://github.com/Nicholas-Michael-Kloster/fieldglass) | Field Observatory | `30` live specimens (Zoe / Zooey 4K, poetry, biology, engineering), R1–R4 simulators, Win7 Zoe Hospital, `16`-slide `.pptx` |
 | [`SafeConvert`](https://github.com/Nicholas-Michael-Kloster/SafeConvert) | Personal Safety | Disguised offline emergency app (`v1.0.0`), zero Android `INTERNET` permission, BLE beacon |
 | [`ablation`](https://github.com/Nicholas-Michael-Kloster/ablation) | Reverse Engineering | AI-assisted binary analysis, Capstone disassembly, legacy architectures &amp; GTK GEM Lab |
 | [`cerotto`](https://github.com/Nicholas-Michael-Kloster/cerotto) | Digital Forensics | Guarded C11/Python digital forensic case workbench &amp; evidence vaults |
