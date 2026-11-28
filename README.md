@@ -14,6 +14,7 @@ $$
 
 **[Zoe Monorepo](https://github.com/Nicholas-Michael-Kloster/Zoe)** ·
 **[Fieldglass Observatory (31 Specimens + Expansion)](https://nicholas-michael-kloster.github.io/fieldglass/)** ·
+**[Zoe Frontier OS (Pure Stdlib)](https://github.com/Nicholas-Michael-Kloster/zoe-frontier-os)** ·
 **[Dorothy 3D Brain (Live WebGL2)](https://nicholas-michael-kloster.github.io/Zoe/)** ·
 **[SafeConvert `v1.0.0`](https://nicholas-michael-kloster.github.io/SafeConvert/)** ·
 **[Ablation AIARE](https://github.com/Nicholas-Michael-Kloster/ablation)** ·
@@ -107,6 +108,7 @@ sha256sum -c evidence/renaissance-orbit/SHA256SUMS.orbit
 |:---|:---|:---|
 | [`Zoe`](https://github.com/Nicholas-Michael-Kloster/Zoe) | Research Monorepo | `16` SymPy theorems, Dorothy 3D Brain, Zoe &amp; Clara, GEM OS, `18` papers, `126` JSON reports |
 | [`fieldglass`](https://github.com/Nicholas-Michael-Kloster/fieldglass) | Field Observatory | `31` live specimens (generative triptych, Zoe / Zooey 4K, poetry, biology, engineering), R1–R4 simulators, Win7 Zoe Hospital, `16`-slide `.pptx` |
+| [`zoe-frontier-os`](https://github.com/Nicholas-Michael-Kloster/zoe-frontier-os) | Creative OS (`0` deps) | Pure Python stdlib GEM Presentation Team, `ZoeMono` Font Maker, MOS 6581 SID Synth, C64 Studio, 6-DOF Flight Sim, PETSc Suite, 8 PC Revivals &amp; 9-Sister `/teamwork` (`0` `.md` files) |
 | [`SafeConvert`](https://github.com/Nicholas-Michael-Kloster/SafeConvert) | Personal Safety | Disguised offline emergency app (`v1.0.0`), zero Android `INTERNET` permission, BLE beacon |
 | [`ablation`](https://github.com/Nicholas-Michael-Kloster/ablation) | Reverse Engineering | AI-assisted binary analysis, Capstone disassembly, legacy architectures &amp; GTK GEM Lab |
 | [`cerotto`](https://github.com/Nicholas-Michael-Kloster/cerotto) | Digital Forensics | Guarded C11/Python digital forensic case workbench &amp; evidence vaults |
